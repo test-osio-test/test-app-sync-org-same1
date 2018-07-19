@@ -9,12 +9,7 @@ IMPORTANT: As part of the process of creating this booster, developers.redhat.co
 To run this booster on your local host:
 
 [source,bash,options="nowrap",subs="attributes+"]
-----
-$ git clone git@github.com:piyush1594/test-app-sync-org-same1
-
-$ cd test-app-sync-org-same1
-
-$ mvn compile vertx:run
+----\
 ----
 
 == Interacting with the Booster Locally
